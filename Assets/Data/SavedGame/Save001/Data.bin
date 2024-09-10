@@ -1,0 +1,89 @@
+{
+  "id": "397ca0f0e73b47da98f65c2d65962d7c",
+  "playerData": {
+    "position": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": -3.7
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "localData": {
+      "health": 78,
+      "playerItems": {
+        "playerItem_0": {
+          "recordingTime": 0,
+          "batteryEnergy": 100.0,
+          "nightVision": false
+        },
+        "playerItem_1": {},
+        "playerItem_2": {},
+        "playerItem_3": {
+          "flashlightAttached": false
+        },
+        "playerItem_4": {
+          "batteryEnergy": 320.0
+        },
+        "playerItem_5": {
+          "currentFuel": 60.0
+        },
+        "playerItem_6": {},
+        "playerItem_7": {}
+      }
+    },
+    "globalData": {
+      "inventory": {
+        "expanded": 0,
+        "items": {
+          "item_0": {
+            "item": "1a62d00e739445248211bcfbc6189138",
+            "quantity": 1,
+            "orientation": 0,
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "customData": {}
+          }
+        },
+        "shortcuts": {
+          "shortcut_0": "{}",
+          "shortcut_1": "{}",
+          "shortcut_2": "{}",
+          "shortcut_3": "{}"
+        }
+      },
+      "objectives": {}
+    }
+  },
+  "worldState": {
+    "worldSaveables": {
+      "TimedInteractEvent.271df078e79151d4c8d84acf403d95ff": {
+        "interactOnce": false,
+        "isInteractTimed": false
+      },
+      "SaveableObject.40a7290877e96804f9293162900ac9e7": {
+        "position": {
+          "x": 0.0,
+          "y": -29.0,
+          "z": -2.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "TimedInteractEvent.f2c21e6b3c66a3d4aa1a54682acfe5bc": {
+        "interactOnce": false,
+        "isInteractTimed": false
+      },
+      "ElevatorSystem.20430871be1f4a34ba3e57d40f6ed7ed": {
+        "floor": 2
+      }
+    },
+    "runtimeSaveables": {}
+  }
+}

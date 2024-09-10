@@ -1,0 +1,221 @@
+{
+  "id": "986ca3ee1e1b4685a2eff7212dd2d69e",
+  "playerData": {
+    "position": {
+      "x": 25.0,
+      "y": 0.0,
+      "z": 3.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "localData": {
+      "health": 61,
+      "playerItems": {
+        "playerItem_0": {
+          "recordingTime": 190562345,
+          "batteryEnergy": 100.0,
+          "nightVision": false
+        },
+        "playerItem_1": {},
+        "playerItem_2": {},
+        "playerItem_3": {
+          "flashlightAttached": false
+        },
+        "playerItem_4": {
+          "batteryEnergy": 320.0
+        },
+        "playerItem_5": {
+          "currentFuel": 60.0
+        },
+        "playerItem_6": {},
+        "playerItem_7": {}
+      }
+    },
+    "globalData": {
+      "inventory": {
+        "expanded": 0,
+        "items": {
+          "item_0": {
+            "item": "e504d12d72e249a898b3ae4b65604ae0",
+            "quantity": 4,
+            "orientation": 0,
+            "position": {
+              "x": 3,
+              "y": 0
+            },
+            "customData": {}
+          },
+          "item_1": {
+            "item": "3905d98ae65b4984a9b8fe2e994d6ead",
+            "quantity": 3,
+            "orientation": 0,
+            "position": {
+              "x": 2,
+              "y": 0
+            },
+            "customData": {}
+          },
+          "item_2": {
+            "item": "277b6aee2d4b47aaa655f284bf75bf94",
+            "quantity": 3,
+            "orientation": 0,
+            "position": {
+              "x": 1,
+              "y": 0
+            },
+            "customData": {}
+          },
+          "item_3": {
+            "item": "21cc6375d5614192aac1fedce6147cfa",
+            "quantity": 1,
+            "orientation": 0,
+            "position": {
+              "x": 4,
+              "y": 0
+            },
+            "customData": {
+              "level": "red"
+            }
+          },
+          "item_4": {
+            "item": "29901ad3ad2a4edf828062ef0684be91",
+            "quantity": 2,
+            "orientation": 0,
+            "position": {
+              "x": 5,
+              "y": 0
+            },
+            "customData": {}
+          },
+          "item_5": {
+            "item": "a89400ede61f4e26aae37610a18b01c9",
+            "quantity": 64,
+            "orientation": 0,
+            "position": {
+              "x": 6,
+              "y": 0
+            },
+            "customData": {}
+          },
+          "item_6": {
+            "item": "a89400ede61f4e26aae37610a18b01c9",
+            "quantity": 20,
+            "orientation": 1,
+            "position": {
+              "x": 8,
+              "y": 0
+            },
+            "customData": {}
+          },
+          "item_7": {
+            "item": "9c45e9931ae9492dba1cf41854f95de0",
+            "quantity": 3,
+            "orientation": 0,
+            "position": {
+              "x": 0,
+              "y": 0
+            },
+            "customData": {}
+          },
+          "item_8": {
+            "item": "3f96ba077954472e85e3efd7ba5d650f",
+            "quantity": 1,
+            "orientation": 0,
+            "position": {
+              "x": 7,
+              "y": 1
+            },
+            "customData": {}
+          },
+          "item_9": {
+            "item": "5396a15e94a147a8832fda331a093529",
+            "quantity": 1,
+            "orientation": 1,
+            "position": {
+              "x": 0,
+              "y": 2
+            },
+            "customData": {}
+          },
+          "item_10": {
+            "item": "59f0dbf8d803402380b5342aff68f188",
+            "quantity": 1,
+            "orientation": 1,
+            "position": {
+              "x": 2,
+              "y": 2
+            },
+            "customData": {}
+          },
+          "item_11": {
+            "item": "65b57fdc935246ad80bc2fe5a2434e54",
+            "quantity": 3,
+            "orientation": 0,
+            "position": {
+              "x": 7,
+              "y": 2
+            },
+            "customData": {}
+          },
+          "item_12": {
+            "item": "96cdd54e574046aeb73adf165af2a6f5",
+            "quantity": 1,
+            "orientation": 0,
+            "position": {
+              "x": 0,
+              "y": 1
+            },
+            "customData": {
+              "level": "green"
+            }
+          },
+          "item_13": {
+            "item": "1a62d00e739445248211bcfbc6189138",
+            "quantity": 1,
+            "orientation": 0,
+            "position": {
+              "x": 3,
+              "y": 1
+            },
+            "customData": {}
+          }
+        },
+        "shortcuts": {
+          "shortcut_0": "5396a15e94a147a8832fda331a093529",
+          "shortcut_1": "59f0dbf8d803402380b5342aff68f188",
+          "shortcut_2": "{}",
+          "shortcut_3": "{}"
+        }
+      },
+      "objectives": {
+        "TryPuzzles": {
+          "isCompleted": false,
+          "subObjectives": {
+            "TryElectricCircuit": {
+              "completeCount": 0,
+              "isCompleted": false
+            },
+            "TryLevers": {
+              "completeCount": 0,
+              "isCompleted": false
+            }
+          }
+        }
+      }
+    }
+  },
+  "worldState": {
+    "worldSaveables": {
+      "RainingSet.c7fa96e352a494f4397fdc90d35be682": {
+        "raining": false
+      },
+      "TimedInteractEvent.5def7a7ab3b17e347afb5e4f4752197f": {
+        "interactOnce": false,
+        "isInteractTimed": false
+      }
+    },
+    "runtimeSaveables": {}
+  }
+}
